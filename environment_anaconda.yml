@@ -1,0 +1,4 @@
+name: NewEnv
+channels:
+  - defaults
+prefix: C:\Users\a_vis\Anaconda3\envs\NewEnv
